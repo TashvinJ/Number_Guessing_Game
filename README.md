@@ -1,1 +1,0 @@
-# Number Guessing Game for begginers and intermediate programmers
